@@ -18,7 +18,7 @@ sections:
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Get Started
-        url: '/advising/#services'
+        url: '#services'
         #icon_pack: fas
         #icon: download
       # Optionally, add an alternative CTA link
