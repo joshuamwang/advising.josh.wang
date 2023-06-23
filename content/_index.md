@@ -110,7 +110,7 @@ sections:
             <div class="bio-content">
               <p><strong>I am a current 5th year <b>MD/PhD student</b> at <b>NYU School of Medicine</b>. During my application cycle, I received 5 MD and 6 MD/PhD interview invites. As a student interviewer for MD and MD/PhD applicants at my school, I have gained valuable experience conducting <b>MMI</b> and <b>traditional interviews</b>. From strategizing primary applications to editing personal statements and interview prep, I have successfully helped numerous students gain acceptances to notable medical schools.</strong></p>
               <p><strong>Let me <b>leverage</b> my firsthand knowledge and expertise to guide you through the medical school admissions process and increase your chances of acceptance.</strong></p>
-              <p><strong>To learn more about me, please visit my personal website: <a target="_blank" rel="noopener noreferrer" href="https:/josh.wang">(josh.wang)</a></strong></p>
+              <p><strong>To learn more about me, please visit my personal website: <a target="_blank" rel="noopener noreferrer" href="https://josh.wang">(josh.wang)</a></strong></p>
             </div>
           </div>
           <div class="doubleColumn-right">
