@@ -304,7 +304,7 @@ sections:
           <h2>Services</h2>
         </div>
 
-        <div class="row justify-content-center pt-3">
+        <div class="row justify-content-center pt-3" style="padding:1%;">
           <div class="col">
             <div class="row pb-3">
               <div class="col-12 col-md-3">
@@ -314,7 +314,7 @@ sections:
                 <p><strong>Tailored to pre-med students and applicants seeking guidance framing their AMCAS/AACOMAS application. We will review your current progress, develop narratives that highlight your extracurriculars, and answer any questions you have about the process over Zoom.</strong></p>
               </div>
               <div class="col-12 col-md-2">
-                <a href="" class="btn btn-primary btn-lg w-100" style="color: white;background-color:#0066CC;"
+                <a href="" class="btn btn-primary btn-lg w-100" style="color: white;background-color:#294F7A;"
                   onclick="Calendly.initPopupWidget({url: 'https://calendly.com/joshuamwang/strategyadvice'});return false;">Check Availability</a>
               </div>
           </div>
@@ -328,7 +328,7 @@ sections:
                 <p><strong>Designed for applicants who have a first draft of their AMCAS/AACOMAS application. I will meticulously edit and review primaries or secondaries. A Zoom call thereafter will be scheduled to review feedback for maximum impact.</strong></p>
               </div>
               <div class="col-12 col-md-2">
-                <a href="" class="btn btn-primary btn-lg w-100" style="color: white;background-color:#0066CC;"
+                <a href="" class="btn btn-primary btn-lg w-100" style="color: white;background-color:#294F7A;"
                   onclick="Calendly.initPopupWidget({url: 'http://google.com/calendar'});return false;">Check Availability</a>
               </div>
           </div>
@@ -342,7 +342,7 @@ sections:
                 <p><strong>One-hour live mock interview practice for traditional or MMI. Develop effective communication techniques, master common interview questions, and learn to present your experiences and motivations in a compelling manner. Please see feedback from previous students by clicking <a target="_blank" rel="noopener noreferrer" href="https://www.fiverr.com/joshuamwang/conduct-mock-interview-for-md-school">here</a>.</strong></p>
               </div>
               <div class="col-12 col-md-2">
-                <a href="" class="btn btn-primary btn-lg w-100" style="color: white;background-color:#0066CC;"
+                <a href="" class="btn btn-primary btn-lg w-100" style="color: white;background-color:#294F7A;"
                   onclick="Calendly.initPopupWidget({url: 'http://google.com/calendar'});return false;">Check Availability</a>
               </div>
           </div>
