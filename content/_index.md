@@ -11,9 +11,9 @@ sections:
       title: |
         Applying to medical school is difficult
         {style="color:#004ba0; font-size: rem; padding:0px 0px 10px 0px;"}
-      # image:
+      image:
         # Reference an image in your `assets/media/` folder
-        # filename: temp2.jpeg
+        filename: temp2.jpeg
 
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
@@ -37,13 +37,13 @@ sections:
         
     design:
       # Choose an optional background color, gradient, image, or video
-      background:
-        video:
-            filename: temp6.mp4
-            flip: false
+    #   background:
+    #     video:
+    #         filename: temp9.mp4
+    #         flip: false
       columns: '1'
       css_class: d-flex align-items-center fullscreen
-      # background:
+      background:
         # gradient_end: '#1976d2'
         # gradient_start: '#004ba0'
         # text_color_light: true
