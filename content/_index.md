@@ -315,7 +315,7 @@ sections:
               </div>
               <div class="col-12 col-md-2">
                 <a href="" class="btn btn-primary btn-lg w-100" style="color: white;background-color:#0066CC;"
-                  onclick="Calendly.initPopupWidget({url: 'http://google.com/calendar'});return false;">Check Availability</a>
+                  onclick="Calendly.initPopupWidget({url: 'https://calendly.com/joshuamwang/strategyadvice'});return false;">Check Availability</a>
               </div>
           </div>
           <div class="row justify-content-center pt-3">
