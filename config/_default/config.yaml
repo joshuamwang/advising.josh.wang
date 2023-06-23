@@ -3,8 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Joshua Wang # Website name
+# baseURL: 'file:///Users/a/Library/CloudStorage/GoogleDrive-joshua_m_wang@alumni.brown.edu/My%20Drive/Dropbox-GD/josh.wang/public/' # Website URL
+baseURL: 'josh.wang'
 
 ############################
 ## LANGUAGE
@@ -24,7 +25,8 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    # - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    - path: customv2
 
 ############################
 ## ADVANCED
